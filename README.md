@@ -23,3 +23,7 @@ If you'd like to use this extension, follow these simple steps:
 ![alt text](readme/readme.png)
 
 Enjoy distraction-free browsing!
+
+## Note to user
+
+The primary purpose of this extension is to increase the inaccessibility of distractions. Therefore, I intentionally designed it to make the addition and removal of blocked websites challenging. As mentioned in the motivation section, merely disabling and enabling JavaScript and images for certain websites was too effortless, making it more likely for users to revert their choices. The concept here is to introduce friction, as the more friction there is, the less likely an action is to occur. The deliberate difficulty in adding and removing blocked websites is an integral part of this friction mechanism.
