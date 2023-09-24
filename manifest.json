@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "WebBlockerExt",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "action": {
+    "default_icon": "block.png"
+  },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id" : "mainruleset",
+        "enabled": true,
+        "path" : "mainruleset.json"
+      }
+    ]
+  },
+  "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"]
+}
