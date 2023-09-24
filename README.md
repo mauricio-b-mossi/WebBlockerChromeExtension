@@ -20,4 +20,6 @@ If you'd like to use this extension, follow these simple steps:
 
 5. Once you've made your desired changes, load the extension into any Chromium-based browser (e.g., Brave, Chrome).
 
+![alt text](readme/readme.png)
+
 Enjoy distraction-free browsing!
