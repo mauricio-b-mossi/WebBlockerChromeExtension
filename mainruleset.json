@@ -67,5 +67,17 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": { "urlFilter": "linkedin.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "gap.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "gapfactory.com", "resourceTypes": ["main_frame"] }
   }
 ]
