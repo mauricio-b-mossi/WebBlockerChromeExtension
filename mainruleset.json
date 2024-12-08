@@ -79,5 +79,17 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": { "urlFilter": "gapfactory.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "discord.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "outlook.com", "resourceTypes": ["main_frame"] }
   }
 ]
