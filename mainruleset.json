@@ -91,5 +91,11 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": { "urlFilter": "outlook.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "whatsapp.com", "resourceTypes": ["main_frame"] }
   }
 ]
